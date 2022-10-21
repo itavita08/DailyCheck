@@ -1,7 +1,10 @@
 # DailyCheck
 ---
 ## 2022-10-21
+### Check-In
 김영준
+- Figma 수정
+- Backlog 수정
 
 이명호
 - Figma UI/UX 설계
