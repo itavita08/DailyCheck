@@ -23,7 +23,7 @@
 ### Check-In
 김영준
 - 게시글 - 글 작성 기능 front, back (react - flask), board 
-- 
+
 이명호
 
 은혜선
