@@ -26,7 +26,7 @@
 이명호
 
 은혜선
-- 게시글 - 글 작성 기능 front, back (react)
+- 게시글 - 글 작성 기능 front, back (react - flask)
 
 최소영
 - 회원 정보 관리 - 회원 가입 기능 front, back (email, db를 이용하여 중복 확인 예외 처리 하기)
