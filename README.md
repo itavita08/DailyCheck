@@ -32,9 +32,11 @@
 최소영
 - 회원 정보 관리 - 회원 가입 기능 front, back (email, db를 이용하여 중복 확인 예외 처리 하기)
 - 회원 정보 관리 - 로그인 기능 front, back (ATK 만료 확인 후 RTK 서버에 header 로 요청)
+
 ### Check-Out
+
 김영준
-- 
+
 
 이명호
 
