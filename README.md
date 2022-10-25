@@ -27,6 +27,7 @@
 이명호
 - 로그인 - 비밀번호 찾기 front, back
 - 로그인 - 로그인폼 구현(jwt)
+
 은혜선
 - 게시글 - 글 작성 기능 front, back (react - flask), board 
 
