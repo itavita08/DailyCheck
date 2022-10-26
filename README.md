@@ -110,3 +110,13 @@
 - 회원 관리 기능 에러 수정
 - 게시물 생성 기능과 회원정보기능 합치고 확인
 - AWS 환경 구축
+
+### Check-Out
+
+
+
+
+은혜선
+- model DTO, Entity 등 생성
+- react에서 게시물 db로 insert
+
