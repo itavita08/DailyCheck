@@ -100,7 +100,7 @@
 이명호
 
 은혜선
-- react에서 넘어가는 형태 json 말고 가능한지(json은 request body로 받아야함), 아니면 json으로 받아서 DTO로 mapping 가능하지 확인
+- react에서 spring으로 DTO로 mapping 
 - AWS 환경 
 
 최소영
