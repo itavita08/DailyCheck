@@ -84,5 +84,7 @@
 
 
 최소영
+- 오늘 해야 할 일은 다 했음 ~~ 
+- 근데 refresh token 으로 access token 을 받은 후 original request 에러 문제 아직 해결 못함,,, 강사님이나 멘토님한테 물어봐야겠다,,,,
 
 ---
