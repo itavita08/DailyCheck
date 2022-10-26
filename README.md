@@ -108,6 +108,7 @@
 
 최소영
 - 회원 관리 기능 에러 수정
+- model DTO, Entity 등 생성
 - 게시물 생성 기능과 회원정보기능 합치고 확인
 - AWS 환경 구축
 
@@ -119,4 +120,10 @@
 은혜선
 - model DTO, Entity 등 생성
 - react에서 게시물 db로 insert
+
+최소영
+- model DTO, Entity 등 생성 
+- 게시물 생성 기능과 회원정보기능 합치기 성공
+- AWS EC2 구축, 탄력적 IP 할당, putty 설치 및 AWS 접속, Key.ppk 팀원들에게 나눠줌. 
+
 
