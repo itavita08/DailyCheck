@@ -178,7 +178,7 @@
 ### Check-In
 
 김영준
-- 게시물 생성 후 상세페이지로 데이터 전달
+- 게시물 CRUD
 
 이명호
 - 라우터를 이용한 접근 제한 구현 (Access Control & Authentication) 로그인전후 페이지 구분
