@@ -181,6 +181,8 @@
 
 
 이명호
+- 라우터를 이용한 접근 제한 구현 (Access Control & Authentication) 로그인전후 페이지 구분
+- user,guest 페이지 구분
 
 은혜선
 - 게시물 CRUD (이미지와 댓글 account 같이)
