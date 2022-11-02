@@ -279,7 +279,6 @@
 은혜선
 - 전체 게시물 조회 기능 spring - 페이지 react 
 - react pagination ui 설치 후 적용함
-- 전체 게시물 조회 기능 spring - 페이지 react 
 
 최소영
 다했333333333333333333
