@@ -18,3 +18,7 @@
 
 
 최소영
+
+
+
+![이미지](./Burndown_report(2주차).png)
