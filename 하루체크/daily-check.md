@@ -390,6 +390,8 @@
 이명호
 
 은혜선
+- sidebar user admin 구분
+- 게시물 css 적용
 
 최소영
 - ec2 spring 배포
@@ -404,7 +406,9 @@
 이명호
 
 은혜선
-
+- sidebar user admin 구분
+- 게시물 css 적용
+- 
 최소영
 - ec2 spring, 리액트 독자적으로 배포는 성공했으나, 둘 사이의 연동을 아직 못해봄. 집 가서 해보겠습니다~
 - redis 구축 완료
