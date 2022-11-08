@@ -388,6 +388,7 @@
 - flask aws 서버 구축
 
 이명호
+- swagger ui 적용
 
 은혜선
 - sidebar user admin 구분
@@ -404,6 +405,7 @@
 - react와 연동만 하고 모델을 사용한 인스턴스는 최대한 늦게 해야겠다.
 
 이명호
+- swagger ui 적용은 완료 세부적인 내용 구축
 
 은혜선
 - sidebar user admin 구분
@@ -421,7 +423,8 @@
 
 
 이명호
-
+- css 상세보기 마무리
+- swagger ui 명세서 정리
 
 은혜선
 
