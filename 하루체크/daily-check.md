@@ -443,7 +443,8 @@
 
 
 최소영
-
+- 어떻게든 react, spring, , flask, mysql, redis 배포 완료
+- flask 서버 제어 버튼은 내일의 나에게,,,,
 
 ---
 
